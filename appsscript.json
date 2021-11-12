@@ -1,0 +1,19 @@
+{
+  "timeZone": "Europe/Moscow",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Demo",
+        "version": "0",
+        "libraryId": "1JkXEW_zfhr6v0TKsvU_ZbygNLpXEczxZcC46fMF_ffk-noMk8UKcMitz",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "ANYONE_ANONYMOUS"
+  }
+}
